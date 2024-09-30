@@ -60,8 +60,17 @@ Ricardo Allison Corpa Alfenas
 ## ----------------------------------------//----------------------------------------
 
 ### Exemplo de parceiras:
+## Nespresso
 
-![BaseEcommerce](link)
+![Nespresso](https://github.com/RicardoCorpa/ecoffee/blob/main/nespresso.png)
+
+## Nescafe
+
+![Nescafe]()
+
+## Ciclo de reciclagem das cápsulas (Nescafe)
+
+![Nescafe2]()
 
 ## ----------------------------------------//----------------------------------------
 
