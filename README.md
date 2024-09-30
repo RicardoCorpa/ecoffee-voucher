@@ -59,16 +59,16 @@ Ricardo Allison Corpa Alfenas
 
 ## ----------------------------------------//----------------------------------------
 
-### Exemplo de parceiras:
-## Nespresso
+## Exemplo de parceiras:
+### Nespresso
 
 ![Nespresso](https://github.com/RicardoCorpa/ecoffee/blob/main/nespresso.png)
 
-## Nescafe
+### Nescafe
 
 ![Nescafe](https://github.com/RicardoCorpa/ecoffee/blob/main/nescafe.png)
 
-## Ciclo de reciclagem das cápsulas (Nescafe)
+### Ciclo de reciclagem das cápsulas (Nescafe)
 
 ![Nescafe2](https://github.com/RicardoCorpa/ecoffee/blob/main/nescafe2.png)
 
@@ -88,5 +88,19 @@ Ricardo Allison Corpa Alfenas
 # #FFFFFF
 
 ## NOTION: 
+
+## Questionários:
+
+### Pessoas: https://docs.google.com/forms/d/1iwnOn_yA0Yyk9CJw7ZYgInO44yYPExRV0CYgaLY_Upg/edit
+
+### Empresas: https://docs.google.com/forms/d/1IRLz5S6C2zapArs4FbBbDr0QCTirhCoVPsrmailhKzM/edit
+
+## Documentações:
+
+### Projeto final: https://docs.google.com/document/d/1iph_2WYcpAqWULEjfzvcNjaDEriROe_UGoItw1c2ELg/edit
+
+### Relatório: https://docs.google.com/document/d/1p6Exbbm7rahxMAeVOsChSP5X6iIgPSMv8AZHakDQSVw/edit
+
+### Rascunho: https://docs.google.com/document/d/1-jOpbXDwjJxvTIHJ-CA_4PajXLCQ2syaKOoSxOShqQg/edit
 
 ## Professor: Anderson Clayton Garcia Lopes
