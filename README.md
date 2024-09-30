@@ -70,7 +70,7 @@ Ricardo Allison Corpa Alfenas
 
 ## Ciclo de reciclagem das cápsulas (Nescafe)
 
-![Nescafe2]()
+![Nescafe2](https://github.com/RicardoCorpa/ecoffee/blob/main/nescafe2.png)
 
 ## ----------------------------------------//----------------------------------------
 
