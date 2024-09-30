@@ -1,6 +1,6 @@
 # Projeto Integrador - Ecoffee - Aplicativo de recompensas através da reciclagem
 
-## Com intuito de propagar e incentivar a reciclagem de cápsulas propondo um sistema de recompensas para os usuários, se tornando em algo sustentável e lucrativo.
+## Com intuito de propagar e incentivar a reciclagem de cápsulas propondo um sistema de recompensas para os usuários, tornando-se em algo sustentável e lucrativo.
 
 Este projeto está sendo elaborado de forma gradativa, atualmente empregando documentações e protótipos conforme necessário. Somos os criadores Gustavo, John, Igor, Matheus, Paulo e Ricardo, para a disciplina de Projeto Integrador (TADS - SENAC).
 
