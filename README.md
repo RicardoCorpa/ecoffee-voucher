@@ -53,7 +53,7 @@ Ricardo Allison Corpa Alfenas
 
 ## ----------------------------------------//----------------------------------------
 
-### Modelagem conceitual (MER):
+### Modelagem Conceitual (MER):
 
 ![ModelagemConceitual](https://github.com/RicardoCorpa/ecoffee/blob/main/mer(ecoffee).png)
 
@@ -63,9 +63,13 @@ MER (Projeto):
 
 ## ----------------------------------------//----------------------------------------
 
-### Caso de uso (UML):
+### Caso de Uso (UML):
 
 ![CasoDeUso](https://github.com/RicardoCorpa/ecoffee/blob/main/ecoffeeproject.drawio.png)
+
+### Diagrama de Entidade e Relacionamento (DER):
+
+![DEntidadeRel]()
 
 ## ----------------------------------------//----------------------------------------
 
