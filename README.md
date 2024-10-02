@@ -55,7 +55,11 @@ Ricardo Allison Corpa Alfenas
 
 ### Modelagem conceitual:
 
-![ModelagemConceitual](link)
+![ModelagemConceitual](https://github.com/RicardoCorpa/ecoffee/blob/main/mer(ecoffee).png)
+
+Modelagem conceitual (Projeto):
+
+![ModelagemConceitual2]()
 
 ## ----------------------------------------//----------------------------------------
 
