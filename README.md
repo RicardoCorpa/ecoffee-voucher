@@ -91,7 +91,7 @@ MER (Projeto):
 
 # #FFFFFF
 
-## NOTION: 
+## Trello: https://trello.com/b/5EmrE50f/mural-ecoffe?completedInviteSignup=1
 
 ## FIGMA (Protótipo): https://www.figma.com/design/sRAwhVZV6OoY0rGEki1AB1/Untitled?node-id=27-434&node-type=frame&t=JvKV8MmIsummbVrr-0
 
