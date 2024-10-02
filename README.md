@@ -69,7 +69,7 @@ MER (Projeto):
 
 ### Diagrama de Entidade e Relacionamento (DER):
 
-![DEntidadeRel]()
+![DEntidadeRel](https://github.com/RicardoCorpa/ecoffee/blob/main/diagramadeclasses2.drawio.png)
 
 ## ----------------------------------------//----------------------------------------
 
