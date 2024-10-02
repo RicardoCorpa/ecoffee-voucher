@@ -63,6 +63,12 @@ MER (Projeto):
 
 ## ----------------------------------------//----------------------------------------
 
+### Caso de uso (UML):
+
+![CasoDeUso](https://github.com/RicardoCorpa/ecoffee/blob/main/ecoffeeproject.drawio.png)
+
+## ----------------------------------------//----------------------------------------
+
 ## Exemplo de parceiras:
 ### Nespresso
 
