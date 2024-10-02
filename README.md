@@ -57,7 +57,7 @@ Ricardo Allison Corpa Alfenas
 
 ![ModelagemConceitual](https://github.com/RicardoCorpa/ecoffee/blob/main/mer(ecoffee).png)
 
-MER (Projeto):
+Projeto (MER):
 
 ![ModelagemConceitual2](https://github.com/RicardoCorpa/ecoffee/blob/main/empresaeprojeto.png)
 
