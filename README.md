@@ -53,25 +53,13 @@ Ricardo Allison Corpa Alfenas
 
 ## ----------------------------------------//----------------------------------------
 
-### Modelagem Conceitual (MER):
+### Modelo Entidade Relacionamento (DER):
 
-![ModelagemConceitual](https://github.com/RicardoCorpa/ecoffee/blob/main/mer(ecoffee).png)
-
-Projeto (MER):
-
-![ModelagemConceitual2](https://github.com/RicardoCorpa/ecoffee/blob/main/empresaeprojeto.png)
-
-## ----------------------------------------//----------------------------------------
+![ModelagemConceitual](https://github.com/RicardoCorpa/ecoffee/blob/main/der-ecoffee.png)
 
 ### Caso de Uso (UML):
 
 ![CasoDeUso](https://github.com/RicardoCorpa/ecoffee/blob/main/ecoffeeproject.drawio.png)
-
-### Diagrama de Entidade e Relacionamento (DER):
-
-![DEntidadeRel](https://github.com/RicardoCorpa/ecoffee/blob/main/der.drawio.png)
-
-## ----------------------------------------//----------------------------------------
 
 ## Exemplo de parceiras:
 ### Nespresso
