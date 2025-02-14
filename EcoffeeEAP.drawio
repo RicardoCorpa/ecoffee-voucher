@@ -1,0 +1,173 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.13">
+  <diagram name="Página-1" id="lE2bsjMeWH7Ai2hMpkL_">
+    <mxGraphModel dx="2087" dy="1367" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qWBX1nw5nNgjJxwkkeQn-27" style="edgeStyle=none;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=none;flowAnimation=0;startFill=0;" edge="1" parent="1" source="qWBX1nw5nNgjJxwkkeQn-1" target="qWBX1nw5nNgjJxwkkeQn-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qWBX1nw5nNgjJxwkkeQn-1" value="1.0 Projeto de Sistema para Reciclagem de Cápsulas (Ecoffee)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="137" y="-127" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qWBX1nw5nNgjJxwkkeQn-28" style="edgeStyle=none;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=none;flowAnimation=0;startFill=0;" edge="1" parent="1" source="qWBX1nw5nNgjJxwkkeQn-2" target="qWBX1nw5nNgjJxwkkeQn-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qWBX1nw5nNgjJxwkkeQn-29" style="edgeStyle=none;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=none;flowAnimation=0;startFill=0;" edge="1" parent="1" source="qWBX1nw5nNgjJxwkkeQn-2" target="qWBX1nw5nNgjJxwkkeQn-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="419" y="-21" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qWBX1nw5nNgjJxwkkeQn-30" style="edgeStyle=none;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=none;flowAnimation=0;startFill=0;" edge="1" parent="1" source="qWBX1nw5nNgjJxwkkeQn-2" target="qWBX1nw5nNgjJxwkkeQn-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-14" y="-21" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qWBX1nw5nNgjJxwkkeQn-2" value="1.0 Levantamento de Necessidades" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="137" y="-51" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qWBX1nw5nNgjJxwkkeQn-3" value="1.1.1 Análise da demanda dos consumidores de cápsulas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-74" y="25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qWBX1nw5nNgjJxwkkeQn-31" style="edgeStyle=none;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=none;flowAnimation=0;startFill=0;" edge="1" parent="1" source="qWBX1nw5nNgjJxwkkeQn-4" target="qWBX1nw5nNgjJxwkkeQn-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qWBX1nw5nNgjJxwkkeQn-4" value="1.1.2 Identificação dos pontos de coleta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="137" y="31" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qWBX1nw5nNgjJxwkkeQn-5" value="1.1.3 Definição dos critérios para recompensas e vouchers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="359" y="25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qWBX1nw5nNgjJxwkkeQn-32" style="edgeStyle=none;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=none;flowAnimation=0;startFill=0;" edge="1" parent="1" source="qWBX1nw5nNgjJxwkkeQn-6" target="qWBX1nw5nNgjJxwkkeQn-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="419" y="163" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qWBX1nw5nNgjJxwkkeQn-33" style="edgeStyle=none;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=none;flowAnimation=0;startFill=0;" edge="1" parent="1" source="qWBX1nw5nNgjJxwkkeQn-6" target="qWBX1nw5nNgjJxwkkeQn-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-14" y="163" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qWBX1nw5nNgjJxwkkeQn-34" style="edgeStyle=none;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=none;flowAnimation=0;startFill=0;" edge="1" parent="1" source="qWBX1nw5nNgjJxwkkeQn-6" target="qWBX1nw5nNgjJxwkkeQn-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qWBX1nw5nNgjJxwkkeQn-6" value="1.2 Desenvolvimento do Sistema" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="137" y="133" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qWBX1nw5nNgjJxwkkeQn-7" value="1.2.1 Design da interface do usuário" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-74" y="203" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qWBX1nw5nNgjJxwkkeQn-35" style="edgeStyle=none;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=none;flowAnimation=0;startFill=0;" edge="1" parent="1" source="qWBX1nw5nNgjJxwkkeQn-8" target="qWBX1nw5nNgjJxwkkeQn-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qWBX1nw5nNgjJxwkkeQn-8" value="1.2.2 Back-end para registro de cápsulas coletadas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="137" y="216" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qWBX1nw5nNgjJxwkkeQn-9" value="1.2.3 Integração com parceiros (Uber se necessário)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="359" y="203" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qWBX1nw5nNgjJxwkkeQn-36" style="edgeStyle=none;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=none;flowAnimation=0;startFill=0;" edge="1" parent="1" source="qWBX1nw5nNgjJxwkkeQn-10" target="qWBX1nw5nNgjJxwkkeQn-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-14" y="341" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qWBX1nw5nNgjJxwkkeQn-37" style="edgeStyle=none;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=none;flowAnimation=0;startFill=0;" edge="1" parent="1" source="qWBX1nw5nNgjJxwkkeQn-10" target="qWBX1nw5nNgjJxwkkeQn-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="421" y="341" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qWBX1nw5nNgjJxwkkeQn-38" style="edgeStyle=none;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=none;flowAnimation=0;startFill=0;" edge="1" parent="1" source="qWBX1nw5nNgjJxwkkeQn-10" target="qWBX1nw5nNgjJxwkkeQn-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qWBX1nw5nNgjJxwkkeQn-10" value="1.3 Infraestrutura e Logística" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="137" y="311" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qWBX1nw5nNgjJxwkkeQn-11" value="1.3.1 Definição dos pontos de coleta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-74" y="388" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qWBX1nw5nNgjJxwkkeQn-39" style="edgeStyle=none;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=none;flowAnimation=0;startFill=0;" edge="1" parent="1" source="qWBX1nw5nNgjJxwkkeQn-12" target="qWBX1nw5nNgjJxwkkeQn-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qWBX1nw5nNgjJxwkkeQn-12" value="1.3.2 Fornecimento dos equipamentos (tablets, leitores QR, computadores, etc.)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="137" y="398" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qWBX1nw5nNgjJxwkkeQn-13" value="1.3.3 Planejamento da logística para transporte de cápsulas (SE NECESSÁRIO)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="359" y="388" width="124" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qWBX1nw5nNgjJxwkkeQn-41" style="edgeStyle=none;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=none;flowAnimation=0;startFill=0;" edge="1" parent="1" source="qWBX1nw5nNgjJxwkkeQn-14" target="qWBX1nw5nNgjJxwkkeQn-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="421" y="517" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qWBX1nw5nNgjJxwkkeQn-42" style="edgeStyle=none;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=none;flowAnimation=0;startFill=0;" edge="1" parent="1" source="qWBX1nw5nNgjJxwkkeQn-14" target="qWBX1nw5nNgjJxwkkeQn-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-14" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qWBX1nw5nNgjJxwkkeQn-43" style="edgeStyle=none;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=none;flowAnimation=0;startFill=0;" edge="1" parent="1" source="qWBX1nw5nNgjJxwkkeQn-14" target="qWBX1nw5nNgjJxwkkeQn-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qWBX1nw5nNgjJxwkkeQn-14" value="1.4 Testes e Validação" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="137" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qWBX1nw5nNgjJxwkkeQn-15" value="1.4.1 Teste do sistema de vouchers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-74" y="559" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qWBX1nw5nNgjJxwkkeQn-44" style="edgeStyle=none;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=none;flowAnimation=0;startFill=0;" edge="1" parent="1" source="qWBX1nw5nNgjJxwkkeQn-16" target="qWBX1nw5nNgjJxwkkeQn-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qWBX1nw5nNgjJxwkkeQn-16" value="1.4.2 Validação dos pontos de coleta e funcionamento do hardware" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="137" y="573" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qWBX1nw5nNgjJxwkkeQn-17" value="1.4.3 Ajustes conforme feedback dos usuários e políticas dos parceiros" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="359" y="559" width="124" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="qWBX1nw5nNgjJxwkkeQn-45" style="edgeStyle=none;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=none;flowAnimation=0;startFill=0;" edge="1" parent="1" source="qWBX1nw5nNgjJxwkkeQn-18" target="qWBX1nw5nNgjJxwkkeQn-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="421" y="694" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qWBX1nw5nNgjJxwkkeQn-46" style="edgeStyle=none;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=none;flowAnimation=0;startFill=0;" edge="1" parent="1" source="qWBX1nw5nNgjJxwkkeQn-18" target="qWBX1nw5nNgjJxwkkeQn-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qWBX1nw5nNgjJxwkkeQn-47" style="edgeStyle=none;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=none;flowAnimation=0;startFill=0;" edge="1" parent="1" source="qWBX1nw5nNgjJxwkkeQn-18" target="qWBX1nw5nNgjJxwkkeQn-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-14" y="697" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qWBX1nw5nNgjJxwkkeQn-18" value="1.5 Treinamento e Implementação" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="137" y="664" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qWBX1nw5nNgjJxwkkeQn-19" value="1.5.1 Treinamento de funcionários e usuários" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-74" y="759.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qWBX1nw5nNgjJxwkkeQn-20" value="1.5.2 Treinamento de parceiros (Pontos de coleta (Oxxo), Necafé e Uber (Caso necessário))" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="134" y="754" width="126" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="qWBX1nw5nNgjJxwkkeQn-21" value="1.5.3&lt;div&gt;Lançamento e divulgação do sistema correlacionando com campanhas efetivas de marketing para compra e sustentabilidade&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="347" y="730" width="148" height="119" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
