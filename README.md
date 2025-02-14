@@ -38,15 +38,6 @@ Funcionalidade 5 - Deve exibir tela de feedback do cliente.
 
 ## Equipe
 
-Gustavo Braz
-
-John Culque
-
-Igor Lima
-
-Matheus
-
-Paulo Henrique Tenório
 
 Ricardo Allison Corpa Alfenas
 
