@@ -1,45 +1,49 @@
-# Projeto Integrador - Ecoffee - Aplicativo de recompensas através da reciclagem
+# Projeto Integrador - Ecoffee - Aplicativo de recompensas/vouchers através da reciclagem
 
 ## Com intuito de propagar e incentivar a reciclagem de cápsulas propondo um sistema de recompensas para os usuários, tornando-se em algo sustentável e lucrativo.
 
-Este projeto está sendo elaborado de forma gradativa, atualmente empregando documentações e protótipos conforme necessário. Somos os criadores Gustavo, John, Igor, Matheus, Paulo e Ricardo, para a disciplina de Projeto Integrador (TADS - SENAC).
+Este projeto está sendo elaborado de forma gradativa, atualmente empregando documentações e protótipos conforme necessário. Somos os criadores Ricardo, Amanda, Enrico, Gabriel, Kayky e Lívia, para a disciplina de Projeto Integrador (TADS - SENAC).
 
 ## Lista de funcionalidades
 
 ### Telas:
 
-Funcionalidade 1 - Tela home;
+Funcionalidade 1 - Exibir tela home;
 
-Funcionalidade 2 - Tela de carregamento;
+Funcionalidade 2 - Exibir tela de carregamento;
 
-Funcionalidade 3 - Tela de cadastro;
+Funcionalidade 3 - Exibir tela de cadastro;
 
-Funcionalidade 4 - Tela de login;
+Funcionalidade 4 - Exibir tela de login;
 
-Funcionalidade 5 - Tela de menu;
+Funcionalidade 5 - Exibir tela de menu;
 
-Funcionalidade 6 - Tela com pontos de coleta;
+Funcionalidade 6 - Exibir tela com pontos de coleta;
 
-Funcionalidade 7 - Tela de cashback;
+Funcionalidade 7 - Exibir tela de cashback, pontos e vouchers;
 
-Funcionalidade 8 - Tela de recompensas.
+Funcionalidade 8 - Exibir tela de direcionamento à recompensas.
 
 ### Usuário/Cliente:
 
-Funcionalidade 1 - Deve permitir que os clientes criem contas, salvem informações de cadastro, visualizem o histórico de pontos acumulados e de recompensas resgatadas;
+Funcionalidade 1 - Permitir que os clientes criem contas, salvem informações de cadastro, visualizem o histórico de pontos acumulados e de recompensas resgatadas;
 
-Funcionalidade 2 - Deve exibir um cátalogo de produtos à serem resgatados, organizados de maneira intuitiva e de fácil navegação;
+Funcionalidade 2 - Exibir um cátalogo de produtos à serem resgatados, organizados de maneira intuitiva e de fácil navegação;
 
-Funcionalidade 3 - Deve exibir uma função de busca para que os usuários possam encontrar os produtos desejados;
+Funcionalidade 3 - Exibir uma função de busca para que os usuários possam encontrar os produtos desejados;
 
-Funcionalidade 4 - Deve exbir um carrinho de resgates e permitir que os clientes selecionem itens, visualizem seus produtos e prossigam com o resgate (linkado a empresa parceira);
+Funcionalidade 4 - Exibir um carrinho de resgates e permitir que os clientes selecionem itens, visualizem seus produtos e prossigam com o resgate (linkado a empresa parceira);
 
-Funcionalidade 5 - Deve exibir tela de feedback do cliente.
+Funcionalidade 5 - Exibir tela de feedback do cliente.
 
 ## Equipe
 
-
-Ricardo Allison Corpa Alfenas
+Ricardo Allison Corpa Alfenas (ID: 1142527114)
+Amanda Alves da Silva (ID: 1142648943)
+Enrico de Oliveira Migliorini (ID: 1142604643)
+Gabriel Valpereiro Horisawa (ID: 11426066242)
+Kayky Yan Santos Severino (ID: 1142642481)
+Lívia Vicente Monteiro Martins (ID: 1142606339)
 
 
 ## ----------------------------------------//----------------------------------------
@@ -80,15 +84,9 @@ Ricardo Allison Corpa Alfenas
 
 # #FFFFFF
 
-## Trello: https://trello.com/b/5EmrE50f/mural-ecoffe?completedInviteSignup=1
+## Trello: (LINK)
 
 ## FIGMA (Protótipo): https://www.figma.com/design/sRAwhVZV6OoY0rGEki1AB1/Untitled?node-id=27-434&node-type=frame&t=JvKV8MmIsummbVrr-0
-
-## Questionários:
-
-### Pessoas: https://docs.google.com/forms/d/1iwnOn_yA0Yyk9CJw7ZYgInO44yYPExRV0CYgaLY_Upg/edit
-
-### Empresas: https://docs.google.com/forms/d/1IRLz5S6C2zapArs4FbBbDr0QCTirhCoVPsrmailhKzM/edit
 
 ## Documentações:
 
@@ -96,6 +94,4 @@ Ricardo Allison Corpa Alfenas
 
 ### Relatório: https://docs.google.com/document/d/1p6Exbbm7rahxMAeVOsChSP5X6iIgPSMv8AZHakDQSVw/edit
 
-### Rascunho: https://docs.google.com/document/d/1-jOpbXDwjJxvTIHJ-CA_4PajXLCQ2syaKOoSxOShqQg/edit
-
-## Professor: Anderson Clayton Garcia Lopes
+## Professor: Wilson da Silva Lourenço
