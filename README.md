@@ -39,10 +39,15 @@ Funcionalidade 5 - Exibir tela de feedback do cliente.
 ## Equipe
 
 Ricardo Allison Corpa Alfenas (ID: 1142527114)
+
 Amanda Alves da Silva (ID: 1142648943)
+
 Enrico de Oliveira Migliorini (ID: 1142604643)
+
 Gabriel Valpereiro Horisawa (ID: 11426066242)
+
 Kayky Yan Santos Severino (ID: 1142642481)
+
 Lívia Vicente Monteiro Martins (ID: 1142606339)
 
 
