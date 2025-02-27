@@ -1,0 +1,127 @@
+body {
+    background-color: #1E1E1E;
+    font-family: 'Arial', sans-serif;
+    color: white;
+    margin-bottom: 60px; 
+}
+
+.navbar {
+    background-color: #D2691E;
+    padding: 15px 30px;
+}
+
+.navbar-brand img {
+    height: 50px;
+    border-radius: 50%;
+}
+
+.navbar-text {
+    color: white;
+    font-size: 1rem;
+    text-decoration: none;
+    margin-right: 15px;
+    transition: color 0.3s;
+}
+
+.navbar-text:hover {
+    color: #000000;
+}
+
+.login-btn {
+    background-color: #ffffff;
+    color: #D2691E;
+    padding: 10px 20px;
+    border-radius: 25px;
+    font-weight: bold;
+    text-decoration: none;
+    border: none; 
+    transition: background-color 0.3s, color 0.3s, transform 0.3s;
+}
+
+.login-btn:hover {
+    background-color: #D2691E;
+    color: white;
+    transform: scale(1.05);
+}
+
+.hero-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 60px 30px;
+}
+
+.text-section {
+    max-width: 600px;
+    text-align: center;
+}
+
+.text-section h1 {
+    font-size: 2.5rem;
+    color: #D2691E;
+}
+
+.text-box {
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 15px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.form-label {
+    font-size: 1.2rem;
+    color: #D2691E;
+}
+
+.form-control {
+    background-color: #333333;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.comment-box {
+    background-color: white;
+    color: #333333;
+    border: 2px solid #D2691E; 
+}
+
+.comment-box:focus {
+    border-color: #D2691E; 
+    outline: none; 
+}
+
+.rating {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    font-size: 2rem;
+    cursor: pointer;
+}
+
+.star {
+    color: white;
+    transition: color 0.3s;
+}
+
+.star:hover {
+    color: #D2691E;
+}
+
+footer {
+    background-color: #D2691E;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    position: fixed; 
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+footer p {
+    margin-bottom: 0;
+}

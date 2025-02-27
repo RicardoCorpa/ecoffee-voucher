@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nos Avalie - Ecoffee</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="nosavalie.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg">
+        <a class="navbar-brand" href="#">
+            <img src="LogotipoEcoffee.png" alt="Ecoffee Logo">
+        </a>
+        <div class="ms-auto d-flex align-items-center">
+            <a href="ofaleconosco.html" class="navbar-text">Fale Conosco</a>
+            <a href="landingpageV2.html" class="navbar-text">Nos avalie</a>
+            <a href="login.html" class="login-btn">Login</a>
+        </div>
+    </nav>
+    
+    <section class="hero-section container">
+        <div class="text-section">
+            <h1>Nos Avalie</h1>
+            <p>Sua opinião é muito importante para nós. Avalie nossos serviços para que possamos oferecer uma experiência ainda melhor.</p>
+            
+            <form action="#" method="POST">
+                <div class="mb-3">
+                    <br>
+                    <label for="rating" class="form-label">Sua Avaliação</label>
+                    <div class="rating" id="rating">
+                        <span class="star" data-value="1">&#9733;</span>
+                        <span class="star" data-value="2">&#9733;</span>
+                        <span class="star" data-value="3">&#9733;</span>
+                        <span class="star" data-value="4">&#9733;</span>
+                        <span class="star" data-value="5">&#9733;</span>
+                    </div>
+                </div>
+                
+                <div class="mb-3">
+                    <br>
+                    <label for="comments" class="form-label">Comentários e Sugestões</label>
+                    <textarea class="form-control comment-box" id="comments" rows="4" placeholder="Deixe seus comentários e sugestões aqui..." required></textarea>
+                </div>
+
+                <button type="submit" class="login-btn">Enviar</button>
+            </form>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <p>&copy; 2025 Ecoffee - Todos os direitos reservados</p>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="nosavalie.js"></script>
+</body>
+</html>
