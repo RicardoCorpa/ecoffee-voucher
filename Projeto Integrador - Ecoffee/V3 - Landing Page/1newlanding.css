@@ -1,0 +1,347 @@
+/* Estilos gerais */
+body {
+    background-color: #121212; 
+    color: #fff; 
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3 {
+    color: #fff;
+}
+
+/* Navbar */
+/* Estilo geral para a navbar */
+.navbar {
+    background-color: #FF6F00; 
+}
+
+/* Navbar-nav */
+.navbar .navbar-nav {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+/* Link Login */
+/* Estilo geral para a navbar */
+.navbar {
+    background-color: #FF6F00; 
+}
+
+/* Estilo para a navbar-nav */
+.navbar .navbar-nav {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+/* Estilo do link Login */
+.navbar .nav-item .nav-link.login-btn {
+    background-color: black; 
+    color: white; 
+    padding: 8px 16px; 
+    border-radius: 15px; 
+    transition: background-color 0.3s ease, color 0.3s ease; /* Transição */
+    margin-left: 20px; /* Espaço horizontal entre o botão e os outros itens */
+}
+
+.navbar .nav-item .nav-link.login-btn:hover {
+    background-color: white; 
+    color: black; 
+}
+
+/* Estilo para os links (Início, Fale Conosco, etc.) */
+.navbar .navbar-nav .nav-item {
+    margin-right: 20px; 
+}
+
+/* Estilo dos links principais (Início, Fale Conosco, etc.) */
+.navbar .navbar-nav .nav-link {
+    color: white; 
+    transition: color 0.3s ease;
+}
+
+/* Efeito de hover nos links principais */
+.navbar .navbar-nav .nav-link:hover {
+    color: black; 
+}
+
+/* Estilo para o logotipo da navbar */
+.navbar .navbar-brand img {
+    border-radius: 50%; 
+    width: 40px; 
+    height: 40px; 
+}
+
+
+
+
+
+/* Carrossel de Frases */
+#carouselFrases {
+    background-color: #1e1e1e; 
+    color: #ccc; 
+    padding: 2rem 0;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#carouselFrases .carousel-item p {
+    font-size: 1.1rem;
+    margin: 0;
+    border-radius: 15px; 
+}
+
+/* Hero Section */
+.hero {
+    background-color: #000; 
+    color: #fff;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.hero h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+.hero .highlight {
+    color: #FF6F00; 
+}
+
+/* Sobre Nós */
+.sobre-nos {
+    background-color: #121212; 
+    padding: 5rem 0;
+}
+
+.sobre-nos p {
+    text-align: justify;
+    line-height: 1.5; /* Espaçamento padrão entre as linhas (USEM) */
+    text-indent: 56.7px; /* 1,5 (TAB - ABNT) */
+}
+
+.sobre-nos h2 {
+    color: #FF6F00; 
+    margin-bottom: 1rem;
+}
+
+.sobre-nos .row {
+    display: flex;
+    justify-content: space-between; /* Espaçamento entre as imagens */
+}
+
+.sobre-nos .col-md-4 {
+    padding-left: 0;
+    padding-right: 0; 
+    display: flex; 
+    justify-content: center; 
+}
+
+.sobre-nos img {
+    width: 100%; /* Largura  */
+    height: 300px; 
+    object-fit: cover; 
+    border-radius: 10px; 
+}
+
+
+
+
+
+/* Depoimentos */
+.depoimentos {
+    background-color: #000; 
+    color: #fff;
+    padding: 4rem 0;
+    border-radius: 15px;
+}
+
+.depoimentos .carousel-inner .carousel-item {
+    border-radius: 15px; 
+    overflow: hidden; /* Conteúdo não ultrapassa a borda */
+}
+
+.depoimentos .carousel-inner .carousel-item .card {
+    background-color: #333; 
+    color: #ccc; 
+    border: none;
+    padding: 1.5rem;
+    border-radius: 15px; /* Aplica border-radius nos cartões */
+}
+
+/* Carrossel de navegação */
+.depoimentos .carousel-control-prev-icon,
+.depoimentos .carousel-control-next-icon {
+    background-color: #FF6F00; 
+    width: 30px; /* Largura da seta */
+    height: 30px; /* Altura da seta */
+    border-radius: 50%; 
+    background-image: none; 
+    border: none; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: background-color 0.3s ease, border-radius 0.3s ease;
+}
+
+.depoimentos .carousel-control-prev-icon:hover,
+.depoimentos .carousel-control-next-icon:hover {
+    background-color: #e65c00; 
+    border-radius: 15px; 
+}
+
+.depoimentos .carousel-control-prev-icon::after,
+.depoimentos .carousel-control-next-icon::after {
+    content: ''; 
+    display: block;
+    width: 10px; /* Tamanho da seta */
+    height: 10px; /* Tamanho da seta */
+    border-left: 3px solid #fff; /* Cor da seta */
+    border-top: 3px solid #fff; /* Cor da seta */
+    transform: rotate(45deg); /* Forma de seta */
+}
+
+/* Bordas arredondadas */
+.depoimentos .carousel {
+    border-radius: 15px; 
+    overflow: hidden; 
+}
+
+
+
+.depoimentos .carousel-control-prev-icon::after {
+    transform: rotate(-45deg); /* Seta para a direita */
+}
+
+
+.depoimentos .carousel-control-next-icon::after {
+    transform: rotate(135deg); /* Seta para a esquerda */
+}
+
+/* Contato */
+.contato {
+    background-color: #e65c00; 
+    color: #fff;
+    padding: 5rem 0;
+}
+
+.contato h3 {
+    color: black; 
+    margin-bottom: 1.5rem;
+}
+
+.contato input,
+.contato textarea {
+    background-color: white; 
+    color: black;
+    border: 1px solid black; 
+    padding: 0.75rem;
+    font-size: 1rem;
+    margin-bottom: 1.5rem;
+    width: 100%;
+    border-radius: 15px;
+}
+
+.contato input:focus,
+.contato textarea:focus {
+    border-color: black; 
+}
+
+.contato button {
+    background-color: black; 
+    color: #fff;
+    border: none;
+    padding: 0.75rem 2rem;
+    font-size: 1rem;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.contato button:hover {
+    background-color: black; 
+}
+
+.contato button {
+    background-color: black; 
+    color: #fff; 
+    border: none;
+    padding: 0.75rem 2rem;
+    font-size: 1rem;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease; 
+}
+
+.contato button:hover {
+    background-color: white; 
+    color: black; 
+   
+}
+
+/* Redes Sociais */
+.redes-sociais {
+    margin-top: 1.5rem;
+}
+
+.redes-sociais a {
+    color: #fff;
+    font-size: 2rem;
+    margin-right: 15px;
+}
+
+.redes-sociais a:hover {
+    color: #FF6F00; 
+}
+
+.redes-sociais h4 {
+    color: #FF6F00;
+    margin-bottom: 1rem;
+}
+
+/* Rodapé - Copyright */
+footer {
+    background-color: black; 
+    color: #fff; 
+    padding: 1rem 0;
+}
+
+footer p {
+    margin: 0;
+}
+
+/* Responsividade */
+@media (max-width: 992px) {
+    .navbar .navbar-nav {
+        text-align: center;
+    }
+
+    .hero h1 {
+        font-size: 2.5rem;
+    }
+}
+
+
+.contato .col-md-6.mb-4 {
+    margin-bottom: 30px; /* Espaçamento entre as caixas */
+}
+
+.redes-sociais-fixas {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 9999;
+}
+.redes-sociais-fixas a {
+    display: block;
+    margin-bottom: 10px;
+}
+.social-icon img {
+    width: 40px;
+    height: 40px;
+}
