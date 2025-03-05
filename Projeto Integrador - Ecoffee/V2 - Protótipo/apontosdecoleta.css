@@ -1,0 +1,72 @@
+
+body {
+    background-color: #222222; /* Não sei porque, está aplicando uma pequena diferença de cor na página */
+    color: white;
+}
+
+/* Tamanho do mapa */
+#map {
+    height: 500px;
+    width: 100%;
+    margin-top: 20px;
+    border-radius: 15px; 
+    overflow: hidden;
+    border: 4px solid #D2691E;
+}
+
+/* Container principal */
+.container {
+    margin-top: 50px;
+    color: white;
+}
+
+/* Barra de navegação */
+.navbar {
+    background-color: #D2691E;
+    padding: 15px 30px;
+}
+
+.navbar-brand img {
+    height: 50px;
+    border-radius: 50%;
+}
+
+.navbar-text {
+    color: white;
+    font-size: 1rem;
+    text-decoration: none;
+    margin-right: 15px;
+    transition: color 0.3s;
+}
+
+.navbar-text:hover {
+    color: #000000;
+}
+
+/* Rodapé */
+footer {
+    background-color: #D2691E;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+footer p {
+    margin-bottom: 0;
+}
+
+/* Texto do mapa */
+.container h2 {
+    font-size: 2rem;
+    color: #D2691E;
+    text-align: center;
+}
+
+.container p {
+    font-size: 1.2rem;
+    text-align: center;
+}

@@ -1,0 +1,176 @@
+
+
+
+
+
+
+
+body {
+    background-color: #1E1E1E;
+    font-family: 'Arial', sans-serif;
+    color: white;
+    margin-bottom: 60px; /* Espaço inferior para o footer não cobrir o conteúdo */
+}
+
+/* Barra de navegação */
+.navbar {
+    background-color: #D2691E;
+    padding: 15px 30px;
+}
+
+.navbar-brand img {
+    height: 50px;
+    border-radius: 50%;
+}
+
+.navbar-text {
+    color: white;
+    font-size: 1rem;
+    text-decoration: none;
+    margin-right: 15px;
+    transition: color 0.3s;
+}
+
+.navbar-text:hover {
+    color: #000000;
+}
+
+/* Botão de login */
+.login-btn {
+    background-color: #ffffff;
+    color: #D2691E;
+    padding: 10px 20px;
+    border-radius: 25px;
+    font-weight: bold;
+    text-decoration: none;
+    border: none; 
+    transition: background-color 0.3s, color 0.3s, transform 0.3s;
+}
+
+.login-btn:hover {
+    background-color: #D2691E;
+    color: white;
+    transform: scale(1.05);
+}
+
+/* Principal */
+.hero-section, .container {
+    padding: 60px 30px;
+}
+
+.text-section, .container {
+    text-align: center;
+}
+
+.text-section h1, .container h2 {
+    font-size: 2.5rem;
+    color: #D2691E;
+}
+
+/* Formulário */
+.form-label {
+    font-size: 1.2rem;
+    color: white;
+}
+
+/* Formulário */
+.form-control {
+    background-color: #ffffff; 
+    color: #333333; 
+    border: 2px solid #D2691E; 
+    border-radius: 5px; 
+    padding: 10px;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.form-control:focus {
+    border-color: #D2691E; 
+    outline: none; 
+}
+
+/* Estrelas */
+.rating {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    font-size: 2rem;
+    cursor: pointer;
+}
+
+.star {
+    color: white;
+    transition: color 0.3s;
+}
+
+.star:hover {
+    color: #D2691E;
+}
+
+/* Rodapé/Fim da página */
+footer {
+    background-color: #D2691E;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    position: fixed; /* Footer no final da página */
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+footer p {
+    margin-bottom: 0;
+}
+
+/* Links */
+.navbar-text {
+    color: white;
+    font-size: 1rem;
+    text-decoration: none;
+    margin-right: 15px;
+    transition: color 0.3s;
+}
+
+.navbar-text:hover {
+    color: #000000;
+}
+
+/* Estilo da caixa de mensagem de contato */
+textarea {
+    background-color: #ffffff; 
+    color: #333333; 
+    border: 2px solid #D2691E; 
+    border-radius: 5px; 
+    padding: 10px;
+    width: 100%;
+    margin-top: 10px;
+    height: 150px;
+}
+
+textarea:focus {
+    border-color: #D2691E;
+    outline: none;
+}
+
+/* Listagem contato */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    font-size: 1rem;
+    margin-bottom: 10px;
+}
+
+ul li a {
+    color: #D2691E;
+    text-decoration: none;
+}
+
+ul li a:hover {
+    color: #FFA500;
+}
+
+

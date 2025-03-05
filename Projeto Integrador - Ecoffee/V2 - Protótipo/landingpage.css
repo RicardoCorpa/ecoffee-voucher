@@ -1,0 +1,91 @@
+body {
+    background-color: #1E1E1E;
+    font-family: 'Arial', sans-serif;
+    color: white;
+}
+
+.navbar {
+    background-color: #D2691E;
+    padding: 15px 30px;
+}
+
+.navbar-brand img {
+    height: 50px;
+    border-radius: 50%;
+}
+
+.navbar-text {
+    color: white;
+    font-size: 1rem;
+    text-decoration: none;
+    margin-right: 15px;
+    transition: color 0.3s;
+}
+
+.navbar-text:hover {
+    color: #000000; /* Muda a cor para preto no hover */
+}
+
+.login-btn {
+    background-color: #ffffff;
+    color: #D2691E;
+    border: 2px solid #D2691E;
+    padding: 10px 20px;
+    border-radius: 25px;
+    font-weight: bold;
+    text-decoration: none; /* Remove o sublinhado */
+    transition: background-color 0.3s, color 0.3s, transform 0.3s;
+}
+
+.login-btn:hover {
+    background-color: #D2691E;
+    color: white; /* Muda o texto para branco ao passar o cursor */
+    transform: scale(1.05);
+}
+
+.hero-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 60px 30px;
+}
+
+.text-section {
+    flex: 1;
+    text-align: justify; /* Justifica o texto */
+    padding-right: 40px;
+}
+
+.text-section h1 {
+    font-size: 2.5rem;
+    color: #D2691E;
+    text-align: center; /* Centraliza o título */
+}
+
+.text-box {
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 15px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.image-section {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.image-section img {
+    width: 100%;
+    height: 300px; /* Definindo altura fixa para as imagens */
+    object-fit: cover; /* Faz com que a imagem ocupe todo o espaço disponível, mantendo a proporção */
+    border-radius: 20px;
+}
+
+.footer {
+    background-color: #D2691E;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}

@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ecoffee - Reciclagem de Cápsulas</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="1newlanding.css">
+    
+</head>
+<body>
+    
+    <!-- Navbar -->
+<nav class="navbar navbar-expand-lg navbar-dark bg-orange px-4">
+    <a class="navbar-brand" href="#">
+        <img src="LogotipoEcoffee.png" alt="Ecoffee Logo" height="40">
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+            <li class="nav-item"><a class="nav-link" href="inicio.html">Início</a></li>  <!-- Linkar páginas criadas aqui no href -->
+            <li class="nav-item"><a class="nav-link" href="faleconosco.html">Fale conosco</a></li> <!-- Linkar páginas criadas aqui no href -->
+            <li class="nav-item"><a class="nav-link" href="sobrenos.html">Sobre nós</a></li> <!-- Linkar páginas criadas aqui no href -->
+            <p></p>
+            <li class="nav-item"><a class="nav-link login-btn" href="login.html">Login</a></li> <!-- Linkar páginas criadas aqui no href -->
+        </ul>
+    </div>
+</nav>
+
+
+<!-- A Nescafé/Nespresso possui um programa de pontuação a partir do momento que o cliente lê um QR code gerado na caixa, porém não atribui pontos para quem descarta as caixas
+ e as cápsulas corretamente, talvez sendo até legal pensar em um futuro (cápsulas retornáveis, assim como a coca-cola fez com as garrafas, economizando em produção e contribuindo
+ para o meio ambiente) -->
+
+    <!-- Frases Carrossel -->
+    <section id="carouselFrases" class="carousel slide text-center bg-light text-dark py-3" data-bs-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <p>200 pontos + R$5,00 = caixa pequena de cápsulas</p>
+            </div>
+            <div class="carousel-item">
+                <p>400 pontos + R$10,00 = caixa média de cápsulas</p>
+            </div>
+            <div class="carousel-item">
+                <p>800 pontos + R$15,00 = caixa grande de cápsulas</p>
+            </div>
+            <div class="carousel-item">
+                <p>5000 pontos + R$20,00 = uma INCRÍVEL CAFETEIRA NOVINHA de cápsulas</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Hero Section -->
+    <section class="hero text-center text-white d-flex align-items-center">
+        <div class="container">
+            <h1>Transforme seu café em <span class="highlight">impacto positivo!</span></h1>
+            <p>Recicle suas cápsulas de café usadas e seja recompensado com pontos e vouchers por cuidar do planeta.</p>
+        </div>
+    </section>
+
+    
+    <!-- Sobre Nós -->
+<section class="sobre-nos py-5">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-md-6">
+                <div class="row">
+                    <div class="col-4 mb-2">
+                        <img src="VasoCapsula.jpg" alt="Cápsula como vaso" class="img-fluid rounded">
+                    </div>
+                    <div class="col-4 mb-2">
+                        <img src="CafeXicara.jpg" alt="Cápsula como vaso" class="img-fluid rounded">
+                    </div>
+                    <div class="col-4 mb-2">
+                        <img src="CafeteiraNespresso.jpg" alt="Cápsula como vaso" class="img-fluid rounded">
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <h2 style="text-align: center;">Quem somos nós?</h2>
+                <br>
+                <p><span class="highlight" style="color: green;">Transformamos cápsulas usadas em recompensas, unindo paixão pelo café e compromisso com o planeta.</span></p>
+                <p>Somos um projeto inovador que une sustentabilidade, tecnologia e engajamento social para transformar a maneira como as cápsulas de café são descartadas e recicladas.</p>
+                    <p>Diante do crescente impacto ambiental causado pelo descarte inadequado dessas cápsulas, criamos um sistema de coleta inteligente, aliado a um programa de recompensas que incentiva consumidores a adotarem práticas mais sustentáveis.</p>
+                    <P>Acreditamos que a reciclagem pode ser acessível e vantajosa para todos. Por isso, estabelecemos parcerias com redes de supermercados, cafeterias e pontos de coleta para facilitar a devolução das cápsulas usadas. Além disso, buscamos soluções logísticas inovadoras, como a coleta domiciliar, garantindo que mais pessoas possam participar desse movimento.</P>
+                    <P>Nosso sistema de pontuação recompensa os consumidores com vouchers, que podem ser trocados por novos produtos, incentivando um ciclo contínuo de consumo consciente. Alinhados à ODS 12 – Consumo e Produção Responsáveis, queremos promover uma cultura sustentável, onde fabricantes, consumidores e empresas compartilhem a responsabilidade pelo meio ambiente.</P>
+                    <P>E não queremos parar por aqui! Quem sabe futuramente não possamos reutilizar cápsulas para fabricar novas cápsulas, reduzindo custos de produção e contribuindo para a preservação dos recursos naturais? Nosso compromisso é inovar e evoluir constantemente para um futuro mais sustentável.</P>
+                    <p>Juntos, podemos transformar pequenos hábitos em grandes mudanças. Seja bem-vindo a um futuro mais sustentável!</p>
+                    <!-- Apliquei um style aqui pois não consegui aplicar no CSS -->
+            </div>
+        </div>
+    </div>
+</section>
+
+
+    <!-- Depoimentos -->
+    <section class="depoimentos text-center py-5">
+        <div class="container">
+            <h2>Veja as experiências que os nossos clientes compartilharam!</h2>
+            <div id="carouselDepoimentos" class="carousel slide mt-4" data-bs-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <div class="card p-3">"Trivial! Sempre me preocupei com o destino das cápsulas." - Maria Lurdes</div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="card p-3">"Ótimo programa de reciclagem, super recomendo!" - Ronaldo Nazário</div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="card p-3">"Vi as pontuações através do QR code nas caixas, mas gerar mais pontos reciclando as cápsulas e as embalagens é genial!" - Bruna Marquezine</div>
+                    </div>
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselDepoimentos" data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselDepoimentos" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                </button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contato -->
+    
+
+<section class="contato py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6" style="padding-right: 30px;"> <!-- Espaçamento à direita, não estava conseguindo aplicar no CSS -->
+                <h3>Fale conosco - Dúvidas</h3>
+                <form>
+                    <input type="text" class="form-control mb-2" placeholder="Nome">
+                    <input type="email" class="form-control mb-2" placeholder="E-mail">
+                    <textarea class="form-control mb-2" placeholder="Mensagem"></textarea>
+                    <button type="submit" class="btn btn-primary">Enviar</button>
+                </form>
+            </div>
+            
+            <div class="col-md-6" style="padding-left: 60px;"> <!-- Espaçamento à esquerda -->
+                <h3>Endereço</h3>
+                <p>Rua Paulo Bueno, X - Jardim Primavera, São Paulo - SP, 04812-150</p>
+                <p>Contato (SAC): (11) 0800-4002-8922 | (11) 0800-222-2025 | (11) 0800-333-2025</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+
+    <!-- Rodapé -->
+    <footer class="text-center py-3 bg-orange text-white">
+        <p>&copy; 2025 Ecoffee - Todos os direitos reservados</p>
+    </footer>
+
+    <!-- Redes Sociais Fixas -->
+    <div class="redes-sociais-fixas">
+        <a href="https://facebook.com" class="social-icon">
+            <img src="icons8-facebook-50white.png" alt="Facebook" />
+        </a>
+        <a href="https://instagram.com" class="social-icon">
+            <img src="icons8-instagram-50white.png" alt="Instagram" />
+        </a>
+        <a href="https://linkedin.com" class="social-icon">
+            <img src="icons8-linkedin-50white.png" alt="LinkedIn" />
+        </a>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script> 
+</body>
+</html>
