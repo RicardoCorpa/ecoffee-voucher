@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Ecoffee - Transforme seu café em impacto positivo através da reciclagem de cápsulas">
+    <title>Ecoffee - Reciclagem de Cápsulas</title>
+    <link rel="stylesheet" href="/V4 - PROJETO/src/resources/static/css/style.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet">
+
+</head>
+<body>
+
+    <!-- Barra de navegação -->
+    <nav class="navbar">
+        <div class="container">
+            <a href="/" class="navbar-brand">
+                <img src="/V4 - PROJETO/src/resources/static/img/LogotipoEcoffee.png" alt="Ecoffee Logo" class="logo">
+            </a>
+            
+            <!-- Botão do Menu Hambúrguer -->
+            <button class="navbar-toggle" aria-label="Menu">
+                <i class="fas fa-bars"></i>
+            </button>
+
+            <div class="navbar-menu">
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a href="#inicio" class="nav-link">Início</a></li>
+                    <li class="nav-item"><a href="#fale-conosco" class="nav-link">Fale conosco</a></li>
+                    <li class="nav-item"><a href="#sobre-nos" class="nav-link">Sobre nós</a></li>
+                    <li class="nav-item"><a href="/login" class="nav-link login-btn">Login</a></li>
+                </ul>
+
+                <!-- Ícones das redes sociais -->
+                <div class="social-icons">
+                    <a href="https://facebook.com" class="social-link"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://instagram.com" class="social-link"><i class="fab fa-instagram"></i></a>
+                    <a href="https://linkedin.com" class="social-link"><i class="fab fa-linkedin-in"></i></a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+
+
+
+    <!-- Carrossel de recompensas -->
+    <section class="rewards-carousel">
+        <div class="container">
+            <div class="carousel-track">
+                <p class="carousel-item">200 pontos + R$5,00 = caixa pequena de cápsulas</p>
+                <p class="carousel-item">400 pontos + R$10,00 = caixa média de cápsulas</p>
+                <p class="carousel-item">800 pontos + R$15,00 = caixa grande de cápsulas</p>
+                <p class="carousel-item">5000 pontos + R$20,00 = uma INCRÍVEL CAFETEIRA NOVINHA de cápsulas</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Seção principal -->
+    <section class="seção-principal" id="inicio">
+        <div class="container">
+            <h1>Transforme seu café em <span class="destaque">impacto positivo!</span></h1>
+            <p>Recicle suas cápsulas de café usadas e seja recompensado com pontos e vouchers por cuidar do planeta.</p>
+        </div>
+    </section>
+
+    <!-- Sobre nós -->
+    <section class="sobre-nos" id="sobre-nos">
+        <div class="container">
+            <div class="grelha-sobre-nos">
+                <div class="imagens-sobre-nos">
+                    <img src="/V4 - PROJETO/src/resources/static/img/VasoCapsula.jpg" alt="Café sustentável" class="imagem-sobre-nos">
+                    <img src="/V4 - PROJETO/src/resources/static/img/CafeXicara.jpg" alt="Xícara de café" class="imagem-sobre-nos">
+                    <img src="/V4 - PROJETO/src/resources/static/img/CafeteiraNespresso.jpg" alt="Cafeteira" class="imagem-sobre-nos">
+                </div>
+                <div class="conteudo-sobre-nos">
+                    <h2>Quem somos nós?</h2>
+                    <p class="destaque-verde">Transformamos cápsulas usadas em recompensas, unindo paixão pelo café e compromisso com o planeta.</p>
+                    <p>Somos um projeto inovador que une sustentabilidade, tecnologia e engajamento social para transformar a maneira como as cápsulas de café são descartadas e recicladas.</p>
+                    <p>Nosso sistema de pontuação recompensa os consumidores com vouchers, que podem ser trocados por novos produtos, incentivando um ciclo contínuo de consumo consciente.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Depoimentos  -->
+    <section class="depoimentos">
+        <div class="container">
+            <h2>Veja as experiências que os nossos clientes compartilharam!</h2>
+            <div class="carrossel-depoimentos">
+                <button class="carrossel-btn prev" aria-label="Depoimento anterior">
+                    <span class="arrow-left"></span>
+                </button>
+                <div class="container-depoimentos">
+                    <div class="faixa-depoimentos">
+                        <div class="cartao-depoimento active">
+                            <p>"Trivial! Sempre me preocupei com o destino das cápsulas."</p>
+                            <cite>- Maria Lurdes</cite>
+                        </div>
+                        <div class="cartao-depoimento">
+                            <p>"Ótimo programa de reciclagem, super recomendo!"</p>
+                            <cite>- Ronaldo Nazário</cite>
+                        </div>
+                        <div class="cartao-depoimento">
+                            <p>"Vi as pontuações através do QR code nas caixas, mas gerar mais pontos reciclando as cápsulas e as embalagens é genial!"</p>
+                            <cite>- Bruna Marquezine</cite>
+                        </div>
+                    </div>
+                </div>
+                <button class="carrossel-btn next" aria-label="Próximo depoimento">
+                    <span class="arrow-right"></span>
+                </button>
+                <div class="carrossel-dots">
+                    <button class="dot active" aria-label="Depoimento 1"></button>
+                    <button class="dot" aria-label="Depoimento 2"></button>
+                    <button class="dot" aria-label="Depoimento 3"></button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contato -->
+    <section class="contato" id="fale-conosco">
+        <div class="container">
+            <div class="grelha-contato">
+                <div class="formulario-contato">
+                    <h3>Fale conosco - Dúvidas</h3>
+                    <form id="contactForm">
+                        <div class="grupo-formulario">
+                            <input type="text" placeholder="Nome" required>
+                        </div>
+                        <div class="grupo-formulario">
+                            <input type="email" placeholder="E-mail" required>
+                        </div>
+                        <div class="grupo-formulario">
+                            <textarea placeholder="Mensagem" required></textarea>
+                        </div>
+                        <button type="submit" class="botao-enviar">Enviar</button>
+                    </form>
+                </div>
+                <div class="informacoes-contato">
+                    <h3>Endereço</h3>
+                    <div class="item-info">
+                        <i class="fas fa-map-marker-alt"></i> 
+                        <p>Rua Paulo Bueno, X - Jardim Primavera, São Paulo - SP, 04812-150</p>
+                    </div>
+                    <div class="item-info">
+                        <i class="fas fa-phone-alt"></i> 
+                        <p>(11) 0800-4002-8922</p>
+                    </div>
+                    <div class="item-info">
+                        <i class="fas fa-envelope"></i> 
+                        <p>contato@ecoffee.com.br</p>
+                    </div>
+                </div>                
+            </div>
+        </div>
+    </section>
+
+    <!-- Rodapé  -->
+    <footer class="rodape">
+        <div class="container">
+            <p>&copy; 2025 Ecoffee - Todos os direitos reservados</p>
+        </div>
+    </footer>
+
+    <script src="/V4 - PROJETO/src/resources/static/js/script.js"></script>
+</body>
+</html>
