@@ -1,4 +1,4 @@
-<<<<<<< HEAD v4
+<<<<<<< HEAD v5
 # Projeto Integrador - Ecoffee - Aplicativo de recompensas/vouchers através da reciclagem
 
 ## Com intuito de propagar e incentivar a reciclagem de cápsulas propondo um sistema de recompensas para os usuários, tornando-se em algo sustentável e lucrativo.
