@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro</title>
+    <link rel="stylesheet" th:href="@{/css/cadastro.css}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+</head>
+<body>
+    <div class="login-container">
+        <a th:href="@{/login}" class="back-button">
+            <i class="fas fa-arrow-left"></i>
+        </a>
+        <img th:src="@{/img/logo_ecoffe.png}" alt="Logo" class="logo">
+        <h2>Cadastre-se</h2>
+
+        <form th:action="@{/cadastro}" th:object="${usuario}" method="post">
+            <input type="text" id="nome" name="nome" placeholder="Digite seu nome completo" th:field="*{nome}" required>
+
+            <input type="email" id="email" name="email" placeholder="Digite seu email" th:field="*{email}" required>
+
+            <input type="password" id="senha" name="senha" placeholder="Digite sua senha" th:field="*{senha}" required>
+
+            <input type="password" id="confirmar_senha" name="confirmar_senha" placeholder="Confirme sua senha" required>
+
+            <input type="submit" value="Concluir">
+        </form>
+    </div>
+
+    <button id="theme-toggle" class="theme-toggle">🌙</button>
+
+    <script th:src="@{/js/script.js}"></script>
+</body>
+</html>

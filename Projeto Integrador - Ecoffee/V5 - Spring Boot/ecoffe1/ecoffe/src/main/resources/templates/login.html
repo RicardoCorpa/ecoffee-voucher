@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-BR" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" th:href="@{/css/login.css}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+
+</head>
+<body>
+    <div class="login-container">
+        <a th:href="@{/}" class="back-button">
+            <i class="fas fa-arrow-left"></i>
+        </a>
+        <img th:src="@{/img/logo_ecoffe.png}" alt="Logo" class="logo">
+        <h2>Login</h2>
+        <form th:action="@{/login}" method="post">
+            <input type="email" id="email" th:name="email" placeholder="Digite seu email" required>
+            <input type="password" id="senha" th:name="senha" placeholder="Digite sua senha" required>
+            <input type="submit" value="Login">
+        </form>
+        <p class="register-link">
+            Não tem uma conta? <a th:href="@{/cadastro}">Cadastre-se</a>
+        </p>
+        
+    </div>
+    <button id="theme-toggle" class="theme-toggle">🌙</button>
+    <script th:src="@{/js/script.js}"></script>
+</body>
+</html>
