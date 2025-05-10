@@ -16,7 +16,7 @@
         <h2>Cadastre-se</h2>
 
         <form th:action="@{/cadastro}" th:object="${usuario}" method="post">
-            <input type="text" id="nome" name="nome" placeholder="Digite seu nome completo" th:field="*{nome}" required>
+            <input type="nome" id="nome" name="nome" placeholder="Digite seu nome completo" th:field="*{nome}" required>
         
             <input type="email" id="email" name="email" placeholder="Digite seu email" th:field="*{email}" required>
         
