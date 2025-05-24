@@ -32,6 +32,8 @@ public class AuthController {
         if (optionalUsuario.isPresent()) {
             Usuario usuario = optionalUsuario.get();
             
+            System.out.println("Esta por aqui o teste");
+
             if (passwordEncoder.matches(senha, usuario.getSenha())) {
                 model.addAttribute("usuario", usuario);
                 return "redirect:/logout"; 
