@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" th:href="@{/css/login.css}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+    <main class="login-container">
+        <a th:href="@{/}" class="back-button" aria-label="Voltar para página inicial">
+            <i class="fas fa-arrow-left" aria-hidden="true"></i>
+        </a>
+        <img th:src="@{/img/logo_ecoffe.png}" alt="Logo Ecoffe" class="logo">
+        <h2>Login</h2>
+        <form th:action="@{/login}" method="post">
+            <div>
+                <label for="email" class="sr-only">Email</label>
+                <input type="email" id="email" th:name="email" placeholder="Digite seu email" required aria-required="true">
+            </div>
+            <div>
+                <label for="senha" class="sr-only">Senha</label>
+                <input type="password" id="senha" th:name="senha" placeholder="Digite sua senha" required aria-required="true">
+            </div>
+            <input type="submit" value="Login">
+        </form>
+        <p class="register-link">
+            Não tem uma conta? <a th:href="@{/cadastro}">Cadastre-se</a>
+        </p>
+    </main>
+    <button id="theme-toggle" class="theme-toggle" aria-label="Alternar tema claro/escuro">🌙</button>
+    <script th:src="@{/js/script.js}"></script>
+</body>
+</html>
