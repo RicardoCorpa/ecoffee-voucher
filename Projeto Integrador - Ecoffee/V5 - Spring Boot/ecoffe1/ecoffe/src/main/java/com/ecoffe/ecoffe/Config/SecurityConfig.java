@@ -1,6 +1,6 @@
-package com.ecoffe.ecoffe.Config; // Confirme se este é o seu pacote correto
+package com.ecoffe.ecoffe.Config; 
 
-import com.ecoffe.ecoffe.Repository.UsuarioRepository; // Confirme se este é o seu repositório correto
+import com.ecoffe.ecoffe.Repository.UsuarioRepository; 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
