@@ -102,7 +102,4 @@ Lívia Vicente Monteiro Martins (ID: 1142606339)
 
 ## Professor: Wilson da Silva Lourenço
 
-### Relatório: https://docs.google.com/document/d/1p6Exbbm7rahxMAeVOsChSP5X6iIgPSMv8AZHakDQSVw/edit
-
-## Professor: Wilson da Silva Lourenço
 >>>>>>> 84bafbc3bfabd49787248ec7a319e63c26234867
