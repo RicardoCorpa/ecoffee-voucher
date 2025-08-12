@@ -1,4 +1,5 @@
 <<<<<<< HEAD v5
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 # Projeto Integrador - Ecoffee - Aplicativo de recompensas/vouchers através da reciclagem
 
 ## Com intuito de propagar e incentivar a reciclagem de cápsulas propondo um sistema de recompensas para os usuários, tornando-se em algo sustentável e lucrativo.
